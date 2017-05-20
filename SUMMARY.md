@@ -5,5 +5,5 @@
 * [三.定价体系说明](4e09-fu-fei-ti-xi-shuo-ming.md)
 * [四.其他说明](56db-qi-ta-shuo-ming.md)
 * [五.设计时的一些想法](4e94-she-ji-shi-de-si-lu.md)
-  * [六.回答规则说明](4e94-she-ji-shi-de-si-lu/516d-hui-da-gui-ze-shuo-ming.md)
+
 
