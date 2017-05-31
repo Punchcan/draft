@@ -7,6 +7,6 @@
 ###(2)指定大师回答问题
 该问题需看大师的定价，大师可在(10-100)范围内定价
 **此类指定问题，需花费￥1围观**
-##2.分成
+##2.分成![](/assets/BOSS版需求文档.md)
 ![](http://static.zybuluo.com/Punchcan/llklch8yt6q3jh8c8zzt4e58/image_1bh1lp8rkcnj11741hj9ogr1g1f9.png)
 N为大师定价
